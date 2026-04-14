@@ -7,7 +7,7 @@
 
 ## Before You Start
 
-1. Rename the repository using the format `SectionA_Team04_RetailAnalysis`.
+1. Rename the repository using the format `SectionD_Team10_RetailAnalysis`.
 2. Fill in the project details and team table below.
 3. Add the raw dataset to `data/raw/`.
 4. Complete the notebooks in order from `01` to `05`.
